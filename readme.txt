@@ -1,3 +1,3 @@
 Gt is a version contron system.
 Git is free software.
-this is a new branch->dev
+Creating a new branch is quick AND simple.
